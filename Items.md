@@ -6,7 +6,9 @@ extra damage, but explode with the force of two end crystals.  The explosions do
 You can create a **Beetle Cleaver** by crafting a sword with Beetle Horn Fragments instead of a material and adding an extra Beetle Horn
 Fragment off to the side.  It deals seventeen damage (8.5 hearts) on it's own, but can be enchanted with Sharpness (and other sword-applicable
 enchantments).  If you have a Strength II potion and your Beetle Cleaver is enchanted with Sharpness V, you can deal THIRTY-SEVEN POINT FIVE damage (actually just 37 because you can't deal half a damage point) in one hit (I think my math is right :P). If you have Bane of Arthropods or Smite,
-that number goes up even higher (when used onn the correct mob).
+that number goes up even higher (when used on the correct mob).
+
+A **Scorpion Whip** is a new combat weapon crafted with a Stick, String, and a Scorpion Projectile Barb.
 
 **Homing Arrows** are exactly what they sound like.  You shoot it out of a Bow or Crossbow, and it locates nearby hostile entities and players (not including the shooter) and steers itself towards them.  Craft them like an arrow but with a Buzzblade Stinger Barb
 instead of Flint and a Buzzblade Wing instead of a Feather
