@@ -1,14 +1,15 @@
 ### Items
-**Slingshots** can be crafted using three sticks in a "Y" shape with a piece of string in the middle.  You can use them to shoot **Slingshot Balls**, which come in four types: Heavy, Cold, and Explosive. **Heavy Balls** deal twenty-five damage (12.5 hearts)
+**Slingshots** can be crafted using three sticks in a "Y" shape with a piece of string in the middle.  You can use them to shoot **Slingshot Balls**, which come in four types: Heavy, Cold, Explosive, and Shrapnel-Shooting. **Heavy Balls** deal twenty-five damage (12.5 hearts)
 when they hit an entity.  **Cold Balls** deal ten damage (5 hearts) but make the target Freeze for two minutes.  **Explosive Balls** deal no
-extra damage, but explode with the force of two end crystals.  The explosions do _not_ destroy blocks, but _do_ damage entities.
+extra damage, but explode with the force of two end crystals.  The explosions do _not_ destroy blocks, but _do_ damage entities.  **Shrapnel Balls** launch many small projectiles in all directions, great for area damage.
+
 
 You can create a **Beetle Cleaver** by crafting a sword with Beetle Horn Fragments instead of a material and adding an extra Beetle Horn
 Fragment off to the side.  It deals seventeen damage (8.5 hearts) on it's own, but can be enchanted with Sharpness (and other sword-applicable
 enchantments).  If you have a Strength II potion and your Beetle Cleaver is enchanted with Sharpness V, you can deal THIRTY-SEVEN POINT FIVE damage (actually just 37 because you can't deal half a damage point) in one hit (I think my math is right :P). If you have Bane of Arthropods or Smite,
 that number goes up even higher (when used on the correct mob).
 
-A **Scorpion Whip** is a new combat weapon crafted with a Stick, String, and a Scorpion Projectile Barb.
+A **Scorpion Whip** is a new combat weapon crafted with a Stick, String, and a Scorpion Projectile Barb.  It has the attack damage of a Diamond Sword and the attack speed of a Netherite Axe, but can reach entities from up to ten blocks away and pulls them towards you, great for preventing enemies from fleeing.
 
 **Homing Arrows** are exactly what they sound like.  You shoot it out of a Bow or Crossbow, and it locates nearby hostile entities and players (not including the shooter) and steers itself towards them.  Craft them like an arrow but with a Buzzblade Stinger Barb
 instead of Flint and a Buzzblade Wing instead of a Feather
