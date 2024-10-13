@@ -22,3 +22,5 @@ If you cook Juicy Bug Meat traditionally, like in a furnace or smoker, you will 
 
 **Exoskeleton Armor** is a new armor set that is between Diamond and Netherite armor in terms of it's defense.  However, each piece of armor you put on decreases the chance that you get hit with a projectile. 
 Instead, the projectile gets deflected and flung back where it came from.  It is crafted using Carapace Segemnts (dropped from Burdenbeetles) in the traditional crafting shapes.  Yes, you can use trims on it.
+
+**Buzzblade Boosters** are used to propel you through the air in the direction you are facing.  Craft them with three Breeze Rods along the middle of a Crafting Table and four Buzzblade Wings, in the top corners and below them.
