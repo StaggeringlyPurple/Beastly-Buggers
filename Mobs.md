@@ -17,6 +17,6 @@ String, Spider Eyes, and Snow Spider Fangs.
 When exploring Warped Forests, you have a chance to find a **Warperd Beetle**.  Small and fast, they are difficult to catch, but once you manage
 to hit it, it will probably die due to it's low health.
 
-**End Scorpion** can be found patrolling the outer End islands.  They rapidly fire several Scorpion Projectile Barbs out of their massive stingers
+**End Scorpions** can be found patrolling the outer End islands.  They rapidly fire several Scorpion Projectile Barbs out of their massive stingers
 when they locate a player.  This makes it difficult to engage them in melee combat, but if you do, they also have a close-quaters attack in which
 they snap their stingers.
