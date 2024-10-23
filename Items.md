@@ -11,8 +11,7 @@ that number goes up even higher (when used on the correct mob).
 
 A **Scorpion Whip** is a new combat weapon crafted with a Stick, String, and a Scorpion Projectile Barb.  It has the attack damage of a Diamond Sword and the attack speed of a Netherite Axe, but can reach entities from up to ten blocks away and pulls them towards you, great for preventing enemies from fleeing.
 
-**Homing Arrows** are exactly what they sound like.  You shoot it out of a Bow or Crossbow, and it locates nearby hostile entities and players (not including the shooter) and steers itself towards them.  Craft them like an arrow but with a Buzzblade Stinger Barb
-instead of Flint and a Buzzblade Wing instead of a Feather
+**Homing Arrows** are exactly what they sound like.  You shoot it out of a Bow or Crossbow, and it locates nearby hostile entities and players (not including the shooter) and steers itself towards them.  Craft them like an arrow but with a Buzzblade Stinger Barb instead of Flint and a Buzzblade Wing instead of a Feather.  [_name now changed to **Buzzblade Arrow**_]
 
 **Juicy Bug Meat** is a new food item.  It is dropped by the mojority of the new mobs, and restores a single hunger point (half a drumstick icon) and practically no saturation.  It also gives you nausea.
 
@@ -24,3 +23,7 @@ If you cook Juicy Bug Meat traditionally, like in a furnace or smoker, you will 
 Instead, the projectile gets deflected and flung back where it came from.  It is crafted using Carapace Segemnts (dropped from Burdenbeetles) in the traditional crafting shapes.  Yes, you can use trims on it.
 
 **Buzzblade Boosters** are used to propel you through the air in the direction you are facing.  Craft them with three Breeze Rods along the middle of a Crafting Table and four Buzzblade Wings, in the top corners and below them.
+
+The mod also contains several items used solely for crafting: **Burdenbeetle Carapace Segments**, **End Scorpion Carapace Segments**, **Buzzblade Wings**, **Beetle Horn Fragments**, **Snow Spider Fangs**, **Buzzblade Stinger Barbs**, and **End Scorpion Projectile Barbs**.
+
+There are a few more ingredient items, but they don't have any functionality yet so I'm not inckuding them here.
