@@ -26,4 +26,4 @@ Instead, the projectile gets deflected and flung back where it came from.  It is
 
 The mod also contains several items used solely for crafting: **Burdenbeetle Carapace Segments**, **End Scorpion Carapace Segments**, **Buzzblade Wings**, **Beetle Horn Fragments**, **Snow Spider Fangs**, **Buzzblade Stinger Barbs**, and **End Scorpion Projectile Barbs**.
 
-There are a few more ingredient items, but they don't have any functionality yet so I'm not inckuding them here.
+There are a few more ingredient items, but they don't have any functionality yet so I'm not including them here.
