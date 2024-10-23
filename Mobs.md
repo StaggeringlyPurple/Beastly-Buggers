@@ -14,7 +14,7 @@ can give you Poison II and Nausea II for twenty seconds.
 In most cold biomes, **Snow Spiders** can spawn.  They inflict you with Weakness I for fifteen seconds and make you "freeze".  They drop Snowballs,
 String, Spider Eyes, and Snow Spider Fangs.
 
-When exploring Warped Forests, you have a chance to find a **Warperd Beetle**.  Small and fast, they are difficult to catch, but once you manage
+When exploring Warped Forests, you have a chance to find a **Nether Scarabs**.  Small and fast, they are difficult to catch, but once you manage
 to hit it, it will probably die due to it's low health.
 
 **End Scorpions** can be found patrolling the outer End islands.  They rapidly fire several Scorpion Projectile Barbs out of their massive stingers
