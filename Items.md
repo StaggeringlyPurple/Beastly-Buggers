@@ -24,6 +24,10 @@ Instead, the projectile gets deflected and flung back where it came from.  It is
 
 **Buzzblade Boosters** are used to propel you through the air in the direction you are facing.  Craft them with three Breeze Rods along the middle of a Crafting Table and four Buzzblade Wings, in the top corners and below them.
 
+**Egg Sacs** are dropped by Snow Spiders and can also be found in Minecart Chests in Abandoned Mineshafts.  When shot from a Slingshot, they spawn 0-5 Cave Spiders.  If the projectile hits an entity, the cave spiders are all immediately hostile to that entity.  When crafted between two Bread vertically in the crafting table, they create **Egg-Sac-Sandwiches**, which apply the Saturation effect for two-and-a-half minutes.
+
+The **Mineshaft Music Disc** has a small chance to be found in a Minecart Chest in Abandoned Mineshafts.  Special thanks to @T_en_M for the AWESOME music!
+
 The mod also contains several items used solely for crafting: **Burdenbeetle Carapace Segments**, **End Scorpion Carapace Segments**, **Buzzblade Wings**, **Beetle Horn Fragments**, **Snow Spider Fangs**, **Buzzblade Stinger Barbs**, and **End Scorpion Projectile Barbs**.
 
 There are a few more ingredient items, but they don't have any functionality yet so I'm not including them here.
